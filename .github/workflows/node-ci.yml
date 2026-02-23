@@ -1,8 +1,6 @@
 name: Node.js CI (My First Pipeline)
 
 on:
-    push:
-        branches: ["main"]
     pull_request:
         branches: ["main"]
 
