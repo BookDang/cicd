@@ -8,7 +8,7 @@ try {
 
     assert.strictEqual(sum(-1, 1), 0);
 
-    // assert.strictEqual(sum(2, 3), 100);
+    assert.strictEqual(sum(2, 3), 100);
 
     console.log("✅ Chúc mừng! Tất cả các bài test đều VƯỢT QUA.");
     process.exit(0);
